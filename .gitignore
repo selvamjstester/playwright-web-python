@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Test artifacts
+.pytest_cache/
+allure-results/
+allure-report/
+report.html
+test-results/
+playwright-report/
+*.png
+*.webm
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
