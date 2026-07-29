@@ -4,6 +4,8 @@
 
 End-to-end **web UI automation** framework built with **Playwright** + **pytest**, using the **Page Object Model (POM)**. Tests run against the public [SauceDemo](https://www.saucedemo.com) demo store.
 
+> 🧑‍🎓 **New to coding or testing?** Read **[LEARN.md](LEARN.md)** — a from-scratch guide that takes you from installing Python to writing your own test in this repo.
+
 ## Highlights
 
 - 🧭 **Page Object Model** — clean separation of locators/actions (`pages/`) from tests (`tests/`)
